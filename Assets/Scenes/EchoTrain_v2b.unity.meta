@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c5b04a9eb2d03d94eb3c124ad772168e
+timeCreated: 1584347871
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 92667
+  packageName: Clinic - Operating room
+  packageVersion: 1.0
+  assetPath: Assets/clinic/scenes/operation_room.unity
+  uploadId: 365077

@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Echotrain_pt2-Echotrain-version.slnx"
+    "dotnet.defaultSolution": "Echotrain_pt2-Echotrain_v2b.slnx"
 }
